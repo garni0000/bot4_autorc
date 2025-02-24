@@ -37,8 +37,16 @@ const emojis = ['👍', '❤️', '🔥', '👏', '🎉', '💯'];
 const startMessage = `
 👋 Salut *UserName* ! Je suis un bot de réactions automatiques.
 
-✨ Envoie un message dans un groupe ou un canal où je suis administrateur, et je réagirai avec un emoji aléatoire. my all bot @bot1reactbot  @Bhosjzuzjzzueubot @breactionxa_bot  @reactionxb_bot @reactionxc_bot @reactionxe_bot
+✨ Envoie un message dans un groupe ou un canal où je suis administrateur, et je réagirai avec un emoji aléatoire.
+@Dbreactionabot
 
+@Dbreactionbbot
+
+@Dbreactioncbot
+
+@Dbreactiondbot
+
+@Dbreactionebot
 👉 Utilise les boutons ci-dessous pour m'ajouter à ton groupe ou canal !
 `;
 
