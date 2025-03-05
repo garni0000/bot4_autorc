@@ -31,7 +31,7 @@ bots.forEach((bot, index) => {
 });
 
 // Liste des emojis disponibles
-const emojis = ['👍', '❤️', '🔥', '👏', '🎉', '💯'];
+const emojis = ['👍', '❤️', '🔥', '👏', '🤩', '🎉', '💯'];
 
 // Message de démarrage
 const startMessage = `
